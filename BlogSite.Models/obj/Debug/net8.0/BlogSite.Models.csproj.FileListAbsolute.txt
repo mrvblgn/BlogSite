@@ -1,0 +1,15 @@
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/bin/Debug/net8.0/BlogSite.Models.deps.json
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/bin/Debug/net8.0/BlogSite.Models.dll
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/bin/Debug/net8.0/BlogSite.Models.pdb
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/bin/Debug/net8.0/Core.dll
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/bin/Debug/net8.0/Core.pdb
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.csproj.AssemblyReference.cache
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.AssemblyInfoInputs.cache
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.AssemblyInfo.cs
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.csproj.CoreCompileInputs.cache
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.D8F607E1.Up2Date
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.dll
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/refint/BlogSite.Models.dll
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/BlogSite.Models.pdb
+/Users/mervebilgin/RiderProjects/BlogSite/BlogSite.Models/obj/Debug/net8.0/ref/BlogSite.Models.dll
